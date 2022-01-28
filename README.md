@@ -3,8 +3,8 @@
 
 <!-- TODO: Insert the link in between the parenthesis -->
 👋  Hi! I'm Angel Fernandez. I'm a Junior Web Developer and Cloud Development Fellow from [New York, New York](https://www.google.com/maps/place/New+York,+NY/@40.6971494,-74.2598645,10z/data=!3m1!4b1!4m5!3m4!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!8m2!3d40.7127753!4d-74.0059728?hl=en).  
-
-This is the repository for [my portfolio](https://lenzpaul.dev/). 
+<!-- 
+This is the repository for [my portfolio](https://lenzpaul.dev/).  -->
 
 <br>
 
