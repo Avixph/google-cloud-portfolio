@@ -32,7 +32,7 @@ The variables are:
 - App engine configuration is located in `app.yaml` 
 - The Flask code is located in `main.py`
 - Images are located in `static/images/`
-- My resume is located in `static/static/general_swe_resume_lenz_paul_nov_2021.pdf`
+- My resume is located in `static/static/Angel_B. Fernandez_Resume.pdf`
 
 ## Deployment
 - To deploy this app **live**:
